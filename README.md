@@ -15,5 +15,5 @@
 #### 5. Recouce Oriented Programming - Cadence at its core uses recources... that define everything we do on flow. 
 ### 2. Why are theses pillar useful
 #### With many new languages popping up for Web3.0, its importat that things are made purposefully, like flow. These pillar outline why cadance was made, and how developers should build with cadence.
-##Chapter 2 Day 1
-### <img> 
+## Chapter 2 Day 1
+### ![JacobTuckerImage](httpfengwengcheng.png)
