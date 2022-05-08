@@ -17,3 +17,11 @@
 #### With many new languages popping up for Web3.0, its importat that things are made purposefully, like flow. These pillar outline why cadance was made, and how developers should build with cadence.
 ## Chapter 2 Day 1
 ### ![JacobTuckerImage](https://github.com/tanneruzzell/EA-quest-submission/blob/6ab19c76a4f64cee121744cae43ac616d2b7aa9d/Screen%20Shot%202022-05-08%20at%201.01.53%20PM.png)
+## Chapter 2 Day 1
+### 1. Explain why we wouldn't call changeGreeting in a script.
+#### Scripts are used for observing the blockchain, NOT for changing it. It wouldn't make sense to call a function that changes the blockchain from a script.
+### 2. What does the AuthAccount mean in the prepare phase of the transaction?
+#### In flow, each account can store their own accounts data, so it's very important that the account running the transaction is explicitally noted. This is what the AuthAccount field does.
+### 3. What is the difference between the prepare phase and the execute phase in the transaction?
+#### Because each account can store their own data via flow, we use to prepare phase to collect/ format the data they way we need to for the transcation. The execute phase will then complete the transaction, but is not tecnically nessecary because everything it does, the prepare phase can do.
+### 4. Ehhhh
