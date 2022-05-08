@@ -25,4 +25,4 @@
 ### 3. What is the difference between the prepare phase and the execute phase in the transaction?
 #### Because each account can store their own data via flow, we use to prepare phase to collect/ format the data they way we need to for the transcation. The execute phase will then complete the transaction, but is not tecnically nessecary because everything it does, the prepare phase can do.
 ### 4. What we did but with a number:
-#### ![Code]
+#### ![Code](https://github.com/tanneruzzell/EA-quest-submission/blob/main/images/Screen%20Shot%202022-05-08%20at%207.12.01%20PM.png)
