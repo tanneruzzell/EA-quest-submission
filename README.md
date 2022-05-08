@@ -16,4 +16,4 @@
 ### 2. Why are theses pillar useful
 #### With many new languages popping up for Web3.0, its importat that things are made purposefully, like flow. These pillar outline why cadance was made, and how developers should build with cadence.
 ## Chapter 2 Day 1
-### ![JacobTuckerImage](httpfengwengcheng.png)
+### ![JacobTuckerImage](https://github.com/tanneruzzell/EA-quest-submission/blob/6ab19c76a4f64cee121744cae43ac616d2b7aa9d/Screen%20Shot%202022-05-08%20at%201.01.53%20PM.png)
