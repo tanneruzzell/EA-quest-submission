@@ -26,3 +26,5 @@
 #### Because each account can store their own data via flow, we use to prepare phase to collect/ format the data they way we need to for the transcation. The execute phase will then complete the transaction, but is not tecnically nessecary because everything it does, the prepare phase can do.
 ### 4. What we did but with a number:
 #### ![Code](https://github.com/tanneruzzell/EA-quest-submission/blob/main/images/Screen%20Shot%202022-05-08%20at%207.12.01%20PM.png)
+#### ![Code2](https://github.com/tanneruzzell/EA-quest-submission/blob/1251945aedbe10c9531c1f1af190ab337b42b680/images/Screen%20Shot%202022-05-08%20at%207.12.05%20PM.png)
+#### ![Code3](https://github.com/tanneruzzell/EA-quest-submission/blob/1251945aedbe10c9531c1f1af190ab337b42b680/images/Screen%20Shot%202022-05-08%20at%207.12.10%20PM.png)
