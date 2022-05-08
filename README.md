@@ -24,4 +24,5 @@
 #### In flow, each account can store their own accounts data, so it's very important that the account running the transaction is explicitally noted. This is what the AuthAccount field does.
 ### 3. What is the difference between the prepare phase and the execute phase in the transaction?
 #### Because each account can store their own data via flow, we use to prepare phase to collect/ format the data they way we need to for the transcation. The execute phase will then complete the transaction, but is not tecnically nessecary because everything it does, the prepare phase can do.
-### 4. Ehhhh
+### 4. What we did but with a number:
+#### ![Code]
